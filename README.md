@@ -69,6 +69,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Email [yemi.ogundeyi@gmail.com]
+- Email [yemi.ogundeyi@gmail.com](mailto:yemi.ogundeyi@gmail.com)
 - GitHub [@YemiOG](https://{github.com/YemiOG})
 - Twitter [@Yemi_OG](https://{twitter.com/yemi_og})
