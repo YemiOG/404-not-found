@@ -1,4 +1,3 @@
-@import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/space-mono.min.css");
 .main-header {
   position: absolute;
   width: 133px;
@@ -6,7 +5,7 @@
   left: 77px;
   top: 40px;
 
-  font-family: Inconsolata;
+  font-family: "Inconsolata", monospace;
   font-style: normal;
   font-weight: bold;
   font-size: 24px;
@@ -23,7 +22,7 @@
   left: 735px;
   top: 265px;
 
-  font-family: "Space Mono", sans-serif;
+  font-family: "Space Mono", monospace;
   font-style: normal;
   font-weight: bold;
   font-size: 64px;
@@ -41,7 +40,7 @@
   left: 736px;
   top: 491px;
 
-  font-family: "Space Mono", sans-serif;
+  font-family: "Space Mono", monospace;
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
@@ -60,7 +59,7 @@
   left: 577px;
   top: 1039px;
 
-  font-family: Montserrat;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -86,7 +85,7 @@ button {
   left: 783px;
   top: 687px;
 
-  font-family: Space Mono;
+  font-family: "Space Mono", monospace;
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
